@@ -50,4 +50,4 @@ En este proyecto se trabajaron los siguientes puntos:
   - Suma y promedio de votos.
   - Porcentaje de satisfacción calculado con votos de **4** o **5**.
 
----
+--- AGREGAR FINAL DE FINALES
